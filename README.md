@@ -1,6 +1,6 @@
 # BreadButter Java
 
-The official Bread & Butter Java Client library.
+The official BreadButter Java Client library.
 
 ## Download
 
@@ -13,7 +13,7 @@ Maven
 </dependency>
 ```
 
-## Bread & Butter API
+## BreadButter API
 
 
 - Prior to coding, some configuration is required at https://app.breadbutter.io/app/#/app-settings.
