@@ -49,7 +49,7 @@ import io.breadbutter.dtos.GetAuthenticationResponse;
 import io.breadbutter.dtos.AuthenticationData;
 import io.breadbutter.BreadButterException;
 
-String callbackUrl = "{CallbackUrl}?authentication_token=507f191e810c19729de860ea";
+String callbackUrl = "{CallbackUrl}?authentication_token={AUTH_TOKEN}";
 
 String queryToken = client.parseAuthenticationToken(callbackUrl);
 
